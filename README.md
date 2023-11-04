@@ -1,0 +1,2 @@
+# Public-Lean-GitHubAction
+GitHubActionの勉強用ブランチ、とりあえずYutubeの内容をやってみる
